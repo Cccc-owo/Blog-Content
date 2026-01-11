@@ -1,11 +1,13 @@
 ---
 title: 离散数学笔记
+published: 2025-06-20
+
+description: "一些离散数学笔记"
+updated: 2025-06-20
+
 tags:
   - "离散数学"
 category: "学习"
-description: "一些离散数学笔记"
-published: 2025-06-20
-updated: 2025-06-20
 ---
 
 ## 命题逻辑
@@ -22,7 +24,7 @@ updated: 2025-06-20
 1. 陈述句
 2. 真值唯一: 去除悖论以及可真可假的陈述句。  
 
-![图1](/images/posts/discrete_math/image.png)
+![图1](images/image-0.webp)
 
 ### 命题的符号化
 
@@ -77,7 +79,7 @@ $p \rightarrow q$ 的逻辑关系：$q$ 为 $p$ 的必要条件, $p$ 是 $q$ 的
 
 联结词的优先顺序为：$\neg,\ \wedge,\ \vee,\ \rightarrow,\ \leftrightarrow$。如果出现的联结词同级，又无括号时，则按从左到右的顺序运算; 若遇有括号时，应该先进行括号中的运算。
 
-![图2](/images/posts/discrete_math/image-1.png)
+![图2](images/image-1.webp)
 
 ### 命题变项
 
@@ -96,7 +98,7 @@ $p \rightarrow q$ 的逻辑关系：$q$ 为 $p$ 的必要条件, $p$ 是 $q$ 的
 
 合式公式不是命题，只有命题变元用确定命题代入时合式公式才是命题。
 
-![图3](/images/posts/discrete_math/image-2.png)
+![图3](images/image-2.webp)
 
 ### 命题公式的赋值
 

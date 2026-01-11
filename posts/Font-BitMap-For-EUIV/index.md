@@ -1,12 +1,14 @@
 ---
 title: EU4的Bitmap font字体贴图制作
+published: 2022-08-23
+
 descripton: "在EU4的游玩过程中，你是否会感觉汉化自带的地图字体不够美观？"
+updated: 2025-04-23
+
 tags:
   - "EU4"
   - "Bitmap-font"
 category: 技术
-published: 2022-08-23
-updated: 2025-04-23
 ---
 
 ## 前言
@@ -211,14 +213,12 @@ updated: 2025-04-23
 
 [ParaTranz所提供的字符文件](https://static.paratranz.cn/media/chars.txt)
 
-[gb_t_12345标准](/static/chars/1gb_t_12345.txt)
+[gb_t_12345标准](assets/1gb_t_12345.txt)
 
-[gbk标准](/static/chars/1gbk.txt)
+[gbk标准](assets/1gbk.txt)
 
-[古籍印刷标准字](/static/chars/1gujiyinshua.txt)
+[古籍印刷标准字](assets/1gujiyinshua.txt)
 
-[汉仪字库使用字](/static/chars/1hanyi_jianfan.txt)
+[汉仪字库使用字](assets/1hanyi_jianfan.txt)
 
-[国家通用规范字](/static/chars/1tongyong_guifan.txt)
-
-<!-- Q.E.D. -->
+[国家通用规范字](assets/1tongyong_guifan.txt)

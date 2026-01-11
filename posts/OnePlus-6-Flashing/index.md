@@ -1,11 +1,14 @@
 ---
 title: 一加6刷机相关
+published: 2021-08-10
+
 description: "刷机有风险，双清需谨慎 | 本文未完成，已烂尾，请查看网上其他文档"
+updated: 2022-01-01
+
 tags:
   - "刷机"
 category: "技术"
-published: 2021-08-10
-updated: 2022-01-01
+
 draft: true
 ---
 

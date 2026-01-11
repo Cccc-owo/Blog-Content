@@ -1,10 +1,14 @@
 ---
 title: 在一加六上安装 Lineage OS
+published: 2022-07-20
+
+descripton: "译自[Install LineageOS on enchilada](https://wiki.lineageos.org/devices/enchilada/install) (2022-07-20)"
+updated: 2022-07-20
+
 tags:
   - "刷机"
+  - "一加"
 category: "技术"
-published: 2022-07-20
-updated: 2022-07-20
 ---
 
 译者：Cccc_
