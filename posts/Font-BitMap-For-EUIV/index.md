@@ -2,7 +2,7 @@
 title: EU4的Bitmap font字体贴图制作
 published: 2022-08-23
 
-descripton: "在EU4的游玩过程中，你是否会感觉汉化自带的地图字体不够美观？"
+description: "在EU4的游玩过程中，你是否会感觉汉化自带的地图字体不够美观？"
 updated: 2025-04-23
 
 tags:

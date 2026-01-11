@@ -2,7 +2,7 @@
 title: 在一加六上安装 Lineage OS
 published: 2022-07-20
 
-descripton: "译自[Install LineageOS on enchilada](https://wiki.lineageos.org/devices/enchilada/install) (2022-07-20)"
+description: "译自[Install LineageOS on enchilada](https://wiki.lineageos.org/devices/enchilada/install) (2022-07-20)"
 updated: 2022-07-20
 
 tags:
