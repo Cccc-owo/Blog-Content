@@ -1,14 +1,17 @@
 ---
-title: 离散数学笔记
+title: 离散数学笔记之数理逻辑
 published: 2025-06-20
 
-description: "一些离散数学笔记"
+description: "一些离散数学笔记（本文未完成）"
 updated: 2025-06-20
 
 tags:
   - "离散数学"
+  - "数理逻辑"
 category: "学习"
 ---
+
+> 本文未完成
 
 ## 命题逻辑
 
